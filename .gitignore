@@ -1,0 +1,9 @@
+__pychache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+dist/
+build/
